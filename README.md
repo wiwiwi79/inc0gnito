@@ -1,2 +1,2 @@
 # inc0gnito
-## simple ctf for mach-o
+simple ctf for mach-o
